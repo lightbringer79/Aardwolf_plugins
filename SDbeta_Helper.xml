@@ -16,6 +16,9 @@ p * heal pot name
 mana * mana pot name
 melee * melee or spel to use ie c 'inflict' or stun
 start * starter skill/ability to begin combat with
+You will need to change the file path in here to 
+point to your Serach and destroy beta otherwise 
+loading and unloading the triggers will not work.
 -->
 
 <muclient>
